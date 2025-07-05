@@ -33,9 +33,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: `youremail@example.com`  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) (if available)
+- 📧 Email: `sruthireddy701s@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](linkedin.com/in/gannapureddy-sruthi-0536932ba)  
 
 ---
 
