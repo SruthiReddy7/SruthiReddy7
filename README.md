@@ -19,7 +19,7 @@
 - Building scalable full stack apps using MERN  
 - Backend system design and APIs  
 - SQL query optimization
-
+- AI and ML Technologies
 ---
 
 ### 📂 Featured Projects
